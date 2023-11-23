@@ -1,0 +1,7 @@
+.imgFilter{
+    filter: brightness(0.65);
+}
+
+#login{
+    background-color: rgb(144, 185, 144);
+}
